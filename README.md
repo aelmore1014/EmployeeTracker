@@ -4,6 +4,8 @@ Function
 This app allows the user to create an employee directory complete with roles, salaries, and departments.  The user can add or view each of these.
 
 How to Use This app
+
+
 1.Run `npm install` to make sure the following are installed:
     * MySQL
     * Console.table
