@@ -9,9 +9,17 @@ How to Use This app
 
 
 1.Run `npm install` to make sure the following are installed:
-    * MySQL
-    * Console.table
-    * Inquirer
+
+
+     -MySQL
+     
+     
+    -Console.table
+    
+    
+    -Inquirer
+    
+    
 
 
 2.Run the schema in mysql
