@@ -8,5 +8,9 @@ How to Use This app
     * MySQL
     * Console.table
     * Inquirer
+
+
 2.Run the schema in mysql
+
+
 3.Type "node tracker.js" in the command line and you will be prompted with what you would like to do.
